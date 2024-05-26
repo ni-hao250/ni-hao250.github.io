@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages - ni-hao250"
+title: "ni_hao"
 author_profile: true
 redirect_from: 
   - /about/
