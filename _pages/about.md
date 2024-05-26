@@ -10,3 +10,5 @@ redirect_from:
 About
 ------
 This is my personal website, it records some information about me including my CV, blog posts etc.
+
+[Where are you?](/talkmap/map.html)
