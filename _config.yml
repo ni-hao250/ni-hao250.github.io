@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "zh-CN"
-title                    : "MAIN"
+title                    : "ni_hao"
 title_separator          : "-"
 name                     : &name "ni_hao/ni-hao250"
 description              : &description "personal description"
