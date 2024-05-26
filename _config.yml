@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "zh-CN"
 title                    : "ni_hao"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "ni-hao250"
 description              : &description "personal description"
 url                      : https://ni-hao250.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -48,6 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
+  luogu            : "www.luogu.com.cn/user/1213634"
   bluesky          : #"bsky.app" Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
