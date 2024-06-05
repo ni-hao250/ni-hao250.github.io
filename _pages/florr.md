@@ -2,10 +2,6 @@
 layout: archive
 title: "florr.io"
 author_profile: true
-permalink: /florr/
-redirect_from: 
-  - /florr/
-  - /florr.html
 ---
 
 ## About my florr.io.
