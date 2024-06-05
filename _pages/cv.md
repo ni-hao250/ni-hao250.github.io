@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-Primary school:
-Junior high school:
-High school:
-University:
+- [x] Primary school:
+- [x] **Junior high school:**
+- [ ] High school:
+- [ ] University:
 
 Work experience
 ======
