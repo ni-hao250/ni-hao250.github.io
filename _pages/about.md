@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+World;ni_hao%2Fni-hao250)](https://git.io/typing-svg)
+
 About
 ------
 This is my personal website, it records some information about me including my CV, blog posts etc.
-[![Page Views Count](https://badges.toozhao.com/badges/01HZM9WTPHPXESPR75CVDJMSZV/blue.svg)](https://badges.toozhao.com/stats/01HZM9WTPHPXESPR75CVDJMSZV "Get your own page views count badge on badges.toozhao.com")
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://ni-hao250.github.io&left_color=blue&right_color=black)
